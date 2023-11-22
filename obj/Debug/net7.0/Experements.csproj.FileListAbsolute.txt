@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Less_cSharp\Experements\bin\Debug\net7.0\Experements.exe
+C:\Users\User\Desktop\Less_cSharp\Experements\bin\Debug\net7.0\Experements.deps.json
+C:\Users\User\Desktop\Less_cSharp\Experements\bin\Debug\net7.0\Experements.runtimeconfig.json
+C:\Users\User\Desktop\Less_cSharp\Experements\bin\Debug\net7.0\Experements.dll
+C:\Users\User\Desktop\Less_cSharp\Experements\bin\Debug\net7.0\Experements.pdb
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.AssemblyInfo.cs
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.dll
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\refint\Experements.dll
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.pdb
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\Experements.genruntimeconfig.cache
+C:\Users\User\Desktop\Less_cSharp\Experements\obj\Debug\net7.0\ref\Experements.dll
